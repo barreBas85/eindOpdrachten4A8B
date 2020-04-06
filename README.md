@@ -1,7 +1,9 @@
 # eindOpdrachten4A8B
-Maak je eigen branch in https://github.com/barreBas85/eindOpdrachten4A8B
+Maak je eigen branch in
+https://github.com/barreBas85/eindOpdrachten4A8B
+Zoals hieronder aangegeven:
 ```eindopdracht_<JOUWNAAM>**```
-Lever daar de eindopdrachten in
+Lever daar de eindopdrachten in onder deze branch
 
 # online scrum toets 20%
 https://www.classmarker.com/online-test/start/?quiz=vek54a6ec10658ef
