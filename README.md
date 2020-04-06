@@ -7,14 +7,19 @@
 
 # online scrum toets 20%
 - https://www.classmarker.com/online-test/start/?quiz=vek54a6ec10658ef
-- Pdf van resultaten pagina vandaag 6/4 inleveren
+- Pdf van resultaten pagina 
+- vandaag 6/4 inleveren
 
 # Mindmap 20% 
+- getekende mindmap met eigen figuurtjes, creatief! mag in pdf/png/jpeg whatever works for you
 - vrijdag 10/4 inleveren
 
 # Belbin test inleveren
+- de pdf die ik heb doorgestuurd invullen en in pdf vorm aanlevere
 - vrijdag 10/4 inleveren 
 
 # Open vragen toets over behandelde stof 60%
 - toets komt later deze week online 
+- In .odf aanleveren
+- uiteraard eigen werk maar dat geldt voor alle opdrachten
 - Vrijdag 17/4 inleveren
