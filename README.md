@@ -15,11 +15,14 @@
 - vrijdag 10/4 inleveren
 
 # Belbin test inleveren
-- de pdf die ik heb doorgestuurd invullen en in pdf vorm aanlevere
+- de pdf die ik heb doorgestuurd invullen en in pdf vorm aanleveren
 - vrijdag 10/4 inleveren 
 
-# Open vragen toets over behandelde stof 60%
+# Open vragen toets over behandelde stof 40%
 - toets komt later deze week online 
 - In .odf aanleveren
 - uiteraard eigen werk maar dat geldt voor alle opdrachten
 - Vrijdag 17/4 inleveren
+
+# aanwezigheid 20%
+- telt voor 20% van je eindcijfer mee
